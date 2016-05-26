@@ -1,3 +1,18 @@
+/*This is the first aerospike class that I wrote 
+ * I was able to understand the following
+ * connecting to hosts(aerospike cluster) using AerspikeClient object
+ * creation of keys
+ * creation of records
+ * creation of bins
+ * creation of put, add and append commands
+ * write policy at the entire client level
+ * reading from the cluster using a client object and get
+ * method passing keys to get the entire record 
+ * 
+ * 
+ * 
+ * */
+
 package aerospike;
 
 import com.aerospike.client.AerospikeClient;
